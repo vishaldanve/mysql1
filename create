@@ -1,0 +1,7 @@
+create table <tablename>
+{
+field1 <datatype> <size>
+field2 <datatype> <size>
+field3 <datatype> <size>
+
+}
